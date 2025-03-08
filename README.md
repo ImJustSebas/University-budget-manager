@@ -12,5 +12,5 @@ Un gestor de presupuesto de beca en Python que ayuda a estudiantes a administrar
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/[tu-usuario]/budget_manager.git
+   git clone https://github.com/ImJustSebas/University-budget-manager
    cd budget_manager
